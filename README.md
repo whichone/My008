@@ -5,8 +5,11 @@ A short description of the project
 ## Installation
 
 Add to inventree/src/backend/InvenTree/setttings.py
+
 INSTALLED_APPS += [
+
     'my008',
+    
 ]
 
 
