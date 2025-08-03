@@ -13,6 +13,7 @@ INSTALLED_APPS += [
 ]
 
 >>> from my008.core import My008App
+
 >>> print(My008App.name)
 ### InvenTree Plugin Manager
 
