@@ -1,5 +1,9 @@
 # My008
 
+Show one enviroment variable: echo $INVENTREE_CONFIG_FILE
+
+Show all environment variables: env
+
 A short description of the project
 
 ## Installation
