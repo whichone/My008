@@ -4,8 +4,10 @@
 'docker compose pull && docker compose up -d && docker compose exec inventree-server invoke update'
 ```
 
-Show one enviroment variable: echo $INVENTREE_CONFIG_FILE
-
+Show one enviroment variable: 
+``` ssh
+echo $INVENTREE_CONFIG_FILE
+```
 Show all environment variables: env
 
 A short description of the project
