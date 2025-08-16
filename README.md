@@ -8,8 +8,10 @@ Show one enviroment variable:
 ``` ssh
 echo $INVENTREE_CONFIG_FILE
 ```
-Show all environment variables: env
-
+Show all environment variables: 
+```
+env
+```
 A short description of the project
 
 ## Installation
