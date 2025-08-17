@@ -3,6 +3,9 @@
 ```bash
 'docker compose pull && docker compose up -d && docker compose exec inventree-server invoke update'
 ```
+```bash
+docker exec -it inventree-server sh
+```
 
 Show one enviroment variable: 
 ``` ssh
