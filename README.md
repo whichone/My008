@@ -1,6 +1,6 @@
 # My008
 ```bash
-docker compose restart inventree
+docker compose restart inventree-server
 ```
 ```bash
 'docker compose pull && docker compose up -d && docker compose exec inventree-server invoke update'
